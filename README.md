@@ -1,7 +1,9 @@
-# This is the hello world project i am learning in django
+## This is the hello world project i am learning in django
 
-## Django Installation
+### Django Installation
 
-### pip3 install django
+- pip3 install django
+
+### To create Project
 
 - django-admin startproject <projectname> 
